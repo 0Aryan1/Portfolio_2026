@@ -1,4 +1,4 @@
-declare module 'gsap-trial/SplitText' {
+declare module 'gsap/SplitText' {
   import { gsap } from 'gsap';
 
   export class SplitText {
@@ -23,7 +23,7 @@ declare module 'gsap-trial/SplitText' {
   export default SplitText;
 }
 
-declare module 'gsap-trial/ScrollSmoother' {
+declare module 'gsap/ScrollSmoother' {
   import { gsap } from 'gsap';
 
   export class ScrollSmoother {
